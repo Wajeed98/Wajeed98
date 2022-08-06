@@ -7,7 +7,7 @@
 <p align="center">
 - 💬 Ask me about **React, NodeJs, SCSS, MySql, Html5, CSS3, JavaScript, Django, Python, Jupyter**
 <p align="center">
-- 📫 How to reach me <strong>wajeed.sharief54@gmail.com</strong>
+- 📫 How to reach me? <strong>wajeed.sharief54@gmail.com</strong>
 </p>
 
 <p align="center">
