@@ -5,7 +5,7 @@
 <p align="center">
 - 🔭 I’m currently working at <strong>Dataseers</strong> as <strong>Full Stack Developer</strong>
 <p align="center">
-- 💬 Ask me about **React, NodeJs, SCSS, MySql, Html5, CSS3, JavaScript, Django, Python, Jupyter**
+- 💬 Ask me about **React, NodeJs, Redux, Redis, MySql, Html5, CSS3, JavaScript, Django, Python, Jupyter**
 <p align="center">
 - 📫 How to reach me? <strong>wajeed.sharief54@gmail.com</strong>
 </p>
